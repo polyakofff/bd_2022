@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Polyakov_209@localhost" uuid="339a4920-0b81-429f-99d8-b366c6447b5f">
+    <data-source source="LOCAL" name="library" uuid="339a4920-0b81-429f-99d8-b366c6447b5f">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5432/Polyakov_209</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="Polyakov_209@localhost [2]" uuid="ee8d0532-3ced-4084-ab60-53417d741872">
+    <data-source source="LOCAL" name="trains" uuid="ee8d0532-3ced-4084-ab60-53417d741872">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
       <jdbc-url>jdbc:postgresql://localhost:5433/Polyakov_209</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
-    <data-source source="LOCAL" name="Polyakov_209@localhost [3]" uuid="912e7f61-6121-4323-b7dc-5a2a428e2fa3">
+    <data-source source="LOCAL" name="patients" uuid="912e7f61-6121-4323-b7dc-5a2a428e2fa3">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>

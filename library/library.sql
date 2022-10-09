@@ -47,3 +47,7 @@ create table book_copy_taking (
     foreign key (ISBN, book_copy_number) references book_copy (ISBN, number),
     return_date date
 );
+
+-- забыл добавить ключ
+alter table book_copy_taking
+    add primary key (reader_number, ISBN, book_copy_number);
